@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/client-combined-3.0.0-beta3-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/cucumber/cucumber-reporting-0.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/cucumber/cobertura-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/cucumber/mockito-all-1.10.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/cucumber/jsr166-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/cucumber/cucumber-java-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/cucumber/cucumber-junit-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/cucumber/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Udyant/eclipse/java-neon/eclipse/dependencies/selenium-java-2.47.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
