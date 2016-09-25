@@ -32,6 +32,10 @@ Create scripts and run scripts using Junit.
 
 The program files are:
 
-Test_Steps.java
+TestSteps.java
 TestRunner.java
+LogIn_test.feature
+
+output file:
+test_result.json
 
